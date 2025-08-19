@@ -1,6 +1,6 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a085,100:2ecc71&height=200&section=header&text=Sahan%20Lochana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/></p>
+<p align="center"><img src=https://github.com/SahanLochana/SahanLochana/blob/9ad30d5d4bf85eb4eb961247da3188bc1b4ce7f9/assets/header.png/></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/tharushatheekshana/tharushatheekshana/7dbe9a74b3938a12a2f3eec4389bc6b5e06cc4fd/tharushatheekshana/Hi.gif" width="30px">, I am Sahan Lochana </h1>
+<h1 align="center">Hi <img src=https://github.com/SahanLochana/SahanLochana/blob/9ad30d5d4bf85eb4eb961247da3188bc1b4ce7f9/assets/Hi.gif width="30px">, I am Sahan Lochana </h1>
 
 <p align="center" width="150px"> I am studying for a BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka. </p>
 
